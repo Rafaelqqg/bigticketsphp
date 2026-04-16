@@ -1,6 +1,6 @@
 ## BigTickets PHP
 
-Versão em PHP do sistema de tickets **Big Trading**, migrada do projeto original em Node.js (`bigtickets`).
+Versão em PHP do sistema de tickets **Big Trading**
 
 ### Estrutura inicial
 
