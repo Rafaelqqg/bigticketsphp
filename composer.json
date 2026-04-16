@@ -1,0 +1,12 @@
+{
+  "name": "bigtrading/bigticketsphp",
+  "description": "Sistema de tickets Big Trading - versão PHP (migração do projeto Node.js).",
+  "type": "project",
+  "require": {
+    "php": ">=8.0",
+    "dompdf/dompdf": "^2.0"
+  },
+  "autoload": {
+    "classmap": []
+  }
+}

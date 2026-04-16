@@ -1,0 +1,20 @@
+# Config com credenciais (use config.example.php como base)
+config/config.php
+config/config.local.php
+
+# Dependências
+vendor/
+
+# Uploads de usuários
+uploads/tickets/*
+uploads/comentarios/*
+!uploads/tickets/.gitkeep
+!uploads/comentarios/.gitkeep
+
+# Composer
+composer.phar
+composer.lock
+
+# Sistema
+.DS_Store
+Thumbs.db
